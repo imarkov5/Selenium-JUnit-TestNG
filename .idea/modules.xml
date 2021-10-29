@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JUnitModule/JUnitModule.iml" filepath="$PROJECT_DIR$/JUnitModule/JUnitModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/TestingTools.iml" filepath="$PROJECT_DIR$/.idea/TestingTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebDriverAutomationProject/WebDriverAutomationProject.iml" filepath="$PROJECT_DIR$/WebDriverAutomationProject/WebDriverAutomationProject.iml" />
     </modules>
   </component>
 </project>
