@@ -10,7 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="WebDriverAutomationProject" target="1.5" />
+      <module name="test" target="11" />
+      <module name="WebDriverAutomationProject" target="14" />
     </bytecodeTargetLevel>
   </component>
 </project>
